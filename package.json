@@ -4,6 +4,7 @@
   "main": "dist/dedupe.js",
   "prettier": "@alloc/prettier-config",
   "repository": "alloc/vite-plugin-dedupe",
+  "license": "MIT",
   "files": [
     "dist",
     "src"
